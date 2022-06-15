@@ -1,0 +1,49 @@
+.black {
+    color: black !important;
+}
+
+.bold {
+    font-weight: 250 !important;
+}
+
+.bigText{
+    font-size: 20pt;
+}
+
+.headshot {
+    width: auto;
+    height: 600px;
+}
+
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.byuimage {
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.jengaImage {
+    width: 25%;
+    height: 25%;
+    float: right;
+    padding: 80px 0;
+}
+
+.linktext {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+body {
+    background-image: url(../images/lavender_field_starry_sky_.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
